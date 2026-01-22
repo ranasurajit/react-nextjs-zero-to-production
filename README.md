@@ -1,5 +1,17 @@
 # 🚀 React & Next.js — Zero to Production
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="60" alt="React" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="60" alt="Next.js" />
+  <img src="https://vitejs.dev/logo.svg" width="60" alt="Vite" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19+-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-App%20Router-black?logo=next.js" />
+  <img src="https://img.shields.io/badge/Vite-Build%20Tool-646CFF?logo=vite&logoColor=white" />
+</p>
+
 This repository documents my **learning journey, hands-on practice, and projects**
 while following the Udemy course:
 
