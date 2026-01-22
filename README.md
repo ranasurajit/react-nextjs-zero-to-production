@@ -42,7 +42,7 @@ while following the Udemy course:
 - [x] Understanding every React file
 - [x] Picking the right learning path
 - [x] Build command in React
-- [ ] Taking React app to production
+- [x] Taking React app to production
 
 ---
 
