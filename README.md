@@ -27,21 +27,21 @@ while following the Udemy course:
 ## 📚 Course Progress Tracker
 
 ### ✅ 01. Introduction
-- [ ] Introduction to the course
-- [ ] Code files overview
-- [ ] Important notes & resources
+- [x] Introduction to the course
+- [x] Code files overview
+- [x] Important notes & resources
 
 ---
 
 ### ✅ 02. Get Started with React
-- [ ] What is React & why use it
-- [ ] React versions & official docs
-- [ ] Why bundlers exist (Vite)
-- [ ] First React app in browser
-- [ ] React in online editors
-- [ ] Understanding every React file
-- [ ] Picking the right learning path
-- [ ] Build command in React
+- [x] What is React & why use it
+- [x] React versions & official docs
+- [x] Why bundlers exist (Vite)
+- [x] First React app in browser
+- [x] React in online editors
+- [x] Understanding every React file
+- [x] Picking the right learning path
+- [x] Build command in React
 - [ ] Taking React app to production
 
 ---
