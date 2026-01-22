@@ -1,5 +1,21 @@
 # 🚀 Taking React (Vite) App to Production
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="60" alt="React" />
+  <img src="https://vitejs.dev/logo.svg" width="60" alt="Vite" />
+  <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" width="48" alt="Vercel" />
+  <img src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" width="70" alt="Netlify" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19+-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-Build%20Tool-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?logo=vercel" />
+  <img src="https://img.shields.io/badge/Deployed%20On-Netlify-00C7B7?logo=netlify&logoColor=white" />
+</p>
+
+---
+
 This section documents the process of **building and deploying a React application created with Vite** to a real production environment using **Vercel** and **Netlify**.
 
 The goal is to understand **what actually happens when React apps go live**, not just how to run them locally.
