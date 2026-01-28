@@ -59,7 +59,7 @@ while following the Udemy course:
 ---
 
 ### ✅ 03. Component Ecosystem of React
-- [ ] Tailwind setup in React
+- [x] Tailwind setup in React
 - [ ] Building UI cards with Tailwind
 - [ ] Props in React
 - [ ] First reusable component
