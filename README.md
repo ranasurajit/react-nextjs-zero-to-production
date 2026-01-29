@@ -62,7 +62,7 @@ while following the Udemy course:
 - [x] Tailwind setup in React
 - [x] Building UI cards with Tailwind
 - [x] Custom Components with Props
-- [ ] Faster UI with Tailwind components
+- [x] Faster UI with Tailwind components
 - [ ] Shadcn UI overview & setup
 - [ ] Project preparation
 
