@@ -61,9 +61,7 @@ while following the Udemy course:
 ### ✅ 03. Component Ecosystem of React
 - [x] Tailwind setup in React
 - [x] Building UI cards with Tailwind
-- [x] Props in React
-- [ ] First reusable component
-- [ ] Custom components with props
+- [x] Custom Components with Props
 - [ ] Faster UI with Tailwind components
 - [ ] Shadcn UI overview & setup
 - [ ] Project preparation
