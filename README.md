@@ -63,7 +63,7 @@ while following the Udemy course:
 - [x] Building UI cards with Tailwind
 - [x] Custom Components with Props
 - [x] Faster UI with Tailwind components
-- [ ] Shadcn UI overview & setup
+- [x] Shadcn UI overview & setup
 
 ---
 
